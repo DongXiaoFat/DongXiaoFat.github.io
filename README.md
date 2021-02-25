@@ -128,6 +128,7 @@ Update the variables of `_config.yml` as needed. Some of them are typical option
 You may want to preview the site contents before publishing, so just run it by:
 
 ```console
+$ bundle install
 $ bundle exec jekyll s
 ```
 

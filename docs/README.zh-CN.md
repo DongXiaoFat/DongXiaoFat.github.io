@@ -133,6 +133,7 @@ $ bash tools/init.sh
 发布之前，在本地预览:
 
 ```terminal
+$ bundle install
 $ bundle exec jekyll s
 ```
 

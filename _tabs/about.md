@@ -1,8 +1,8 @@
 ---
 title: About
-icon: fas fa-info
+icon: fas fa-info-Circle
 order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+> **联系方式**: chunyangdong123@outlook.com
